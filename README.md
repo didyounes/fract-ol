@@ -118,8 +118,9 @@ Zoom, resize, and switch windows — everything should remain smooth and respons
 ---
 
 ##  Screenshots
+![Julia Fractol](./julia_fractol.png)
 
-*(You can add your own screenshots here)*
+
 
 ![Julia Set](https://upload.wikimedia.org/wikipedia/commons/2/25/Julia_set_%28highres_01%29.png)
 
