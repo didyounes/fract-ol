@@ -117,8 +117,10 @@ Zoom, resize, and switch windows — everything should remain smooth and respons
 
 ---
 
-##  Screenshots
-![Julia Fractol](./julia_fractol.png)
+## Screenshots
+
+![Julia Fractol](./julia_fractol.webp)
+
 
 
 ---
